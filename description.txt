@@ -1,0 +1,108 @@
+WARNING: This mod is planned to be player in EXPERT worlds, most of it's drops, spawns and recipes rely on EXPERT.
+This mod add many fusions of accessories, a "Night's Edge", "Excalibur" and "Terra Blade" equivalent for most weapons types, and much more.
+
+Advanced Tinkering is a mod created by me (TheKingAurum) to add a few things I would like to see in the game, and I'll explain all of them in categories:
+
+Symbols: The initial focus of the mod, "Symbols" are a group of accessories fused into one, and after each boss you defeat, you can upgrade those symbols with more accessories that you can get after the said boss;
+Void: This set of items include the "Night's Edge", "Dark Lance" and new weapons for all classes and armor, all of them made following the same steps of the sword. Unique colors for crimson or corruptions items used in the crafting;
+Hallowed: Now you can make even more weapons for the 5 classes with "Hallowed Bars";
+Heroicium: By dismantling the "Broken Hero Sword" in a heavy workbench or autohammer, you gain "Heroicium Dust" used to make bars, and then forge it into "Broken Hero" items to create "True" variants of Void and Hallowed items;
+Terra: With a "True Void" and "True Hallowed" item in hand, you can fusion it in a respective "Terra" item, and the "Terra Armor" boosts the weapons efficacy;
+Metals: There are new metals used for various crafting recipes of existing items and some new too, but the most useful ones are the alloys, made using dust of other metals and combinig them to melt in the furnace;
+Summoner: Now you can gain the bonus of the 8 initial "Hardmode Ore" sets (Cobalt to Chlorophyte) and craft a exclusive headpiece to its class;
+Thrower: Now you can gain the bonus of the 8 initial "Hardmode Ore" sets (Cobalt to Chlorophyte) and craft a exclusive headpiece to its class;
+Gloves: Expanding this throwing weapon class, this mod add many gloves that uses throwing items as ammo and boosts them by adding a debuff or increasing the damage or critical chance;
+Food: Another core of this mod is improved foods, that add three different buffs based on where you get the food and how you prepared it;
+
+Changelog:
+0.4.5.2:
+	-Rebalanced Void items;
+
+0.4.5.1:
+	-Minor balance changes to reward credits;
+	-Reward Credits now drops from treasure bags;
+
+0.4.5.0:
+	-Major balance changes to throwing items;
+
+0.4.4.1:
+	Added new reward boxes for the Rewarder to sell;
+
+0.4.4.0:
+	-Added a new NPC (Rewarder), he sells "reward boxes" in exchange for credits gained from defeating bosses;
+
+0.4.3.0:
+	-Added "Void" weapons for throwing class;
+
+0.4.2.0:
+	-Added two new headpieces for the 8 hardmode ores (Cobalt to Chlorophyte) for summoner and throwing class;
+
+0.4.1.0:
+	-Added the "Void" group of items, including armor and weapons;
+
+0.4.0.0:
+	-Added acessories and weapon for summoner class based on types of wood;
+
+0.3.3.0:
+	-Added a variety of critter meats and other foods;
+	-Added the "Kitchen", a multi-crafting station;
+	-Added "Enchantments", tools that grants different buffs;
+	-Added hardmode upgrades to fish tools;
+	-Changed the "Necro set" crafting to the "Bone Welder";
+	-Every Skeleton mob drops "Bone";
+	-Every Goblin mob drops "Tattered Cloth" and "Shadowspark";
+	-Added Goblin themed armor and upgrade using "Shadowspark";
+
+0.3.2.0:
+	-Started the "Fishes" project;
+	-Added Matt0x Set;
+	-Added more "Pine Wood" furnitures;
+	-Added "Giant Gems" sentry staves;
+	-Added Gold themed stuff;
+
+0.3.1.2:
+	-Code fixes;
+	-Added "Steel Bar" and "Stainless Steel Bar" to "Any Iron" recipe group;
+	-Added all types of sand to "Any Sand" recipe group;
+	-Created "Sand", "Hardened Sand" and "Sandstone" recipe groups;
+
+0.3.1.1:
+	-Code fixes;
+
+0.3.1.0:
+	-Started the "Companion Accessory" project;
+	-Added "Blueprints" to craft some existing items;
+	-Added new elements in "Cannisters";
+
+0.3.0.1:
+	-Made Golden Furniture craftable;
+	-Made Lihzahrd, Living Wood and Skyware chests craftable;
+	-Made some normalmode accessories craftable;
+	-Added alternative "Boss Masks";
+	-Added alternative "Bunny Masks";
+
+0.3.0.0:
+	-Added Aurum Set;
+	-Added 3 tiered multi-crafting stations;
+	-Added new elements and alloys "Bars";
+	-Added "Dusts"(item) for all bars (Terraria/A.T.);
+
+0.2.2.0:
+	-Started the "Smart Phone" project;
+	-Added some "Pine Wood" furnitures;
+	-Added "Celestial Shell'Os";
+	-Added "Couple of Balloons";
+	-Added "Frostburn Boots";
+
+0.2.1.0:
+	-Code fixes;
+	-Added "Awoken Artifacts" tier, which combines all given buffs to one;
+
+0.2.0.0:
+	-Changed to 6 tiers of "Symbols" tied to boss progression;
+
+0.1.0.1:
+	-Code fixes;
+
+0.1.0.0:
+	-Added 3 tiers of "Symbols" (combined accessories);
